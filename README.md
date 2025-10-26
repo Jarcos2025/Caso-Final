@@ -1,4 +1,3 @@
-# Caso Final
 # Caso Predicting Costumer Churn at QWE INC.
 # Business Analytics 2025-3 📊
 
