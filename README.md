@@ -9,7 +9,8 @@ Este caso ofrece el desarrollo y el análisis del caso **Predicting Costumer Chu
 ## 🗂 Estructura del Repositorio
 
 - `data/`: Bases de datos.
-- `figures_tables/`: gráficas tablas o visualizaciones.
+- `report/`: Reporte Analitico del Caso.
+- `figures_tables/`: Gráficas tablas o visualizaciones.
 - `r_script/` : Codigo del analisis cuantitativo en lenguaje de programacion R.
 - `Others/`: Talleres y tareas.
 
